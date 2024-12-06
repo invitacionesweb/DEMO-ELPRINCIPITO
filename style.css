@@ -49,6 +49,7 @@ header {
     justify-content: center;
     animation-name: texto;
     animation-duration: 5s;
+
 }
 @keyframes texto {
     from{
@@ -266,6 +267,7 @@ main p {
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    
     
 }
 .segundo img {
